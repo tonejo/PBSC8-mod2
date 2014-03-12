@@ -13,7 +13,7 @@
 |                                |Denise Betancourt Sandoval      |                                |Diana Romero Velázquez          |
 
 ### Tasklist ###
-- [X] Crear repositorio de git
+- [x] Crear repositorio de git
 - [ ] Completar try-git de @codeschool
 - [ ] Completar el proyecto
 - [ ] *No morir* xD
