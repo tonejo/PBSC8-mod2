@@ -12,3 +12,9 @@
 |Rodrigo Augusto Ortíz Ramón     |José Carmen Hernández Padrón    |Marcelo Daniel Barrera Plata    |Víctor Hugo Barajas Nieto       |
 |                                |Denise Betancourt Sandoval      |                                |Diana Romero Velázquez          |
 
+### Tasklist ###
+[X]	Crear repositorio de git
+[ ]	Completar try-git de @codeschool
+[ ]	Completar el proyecto
+[ ]	*No morir* xD
+
