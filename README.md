@@ -13,7 +13,14 @@
 |                                                            |[Denise Betancourt Sandoval](https://github.com/denisbeta23)    |                                                                 |[Diana Romero Velázquez](https://github.com/dromero91)     |
 
 ### Tasklist ###
+
 - [x] Crear repositorio de git
 - [ ] Completar try-git de @codeschool
 - [ ] Completar el proyecto
 - [ ] *No morir* xD
+
+### Especificaciones del Proyecto ###
+
++ [Especificaciones del Proyecto - Markdown](./Proyecto.md "Especificaciones del Proyecto - Markdown")
++ [Especificaciones del Proyecto - PDF](./Proyecto.PDF "Especificaciones del Proyecto - PDF")
+
