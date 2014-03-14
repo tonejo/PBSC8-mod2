@@ -117,41 +117,41 @@ Frameworks
 
 ##3. EVALUACIÓN:
 
-|Elemento                                                                                           |  |Valor|
-|:--------------------------------------------------------------------------------------------------|-:|:---:|
-|**Sistema de control de versiones**                                                                |  |     |
-|Front End - Código fuente de la aplicación principal                                               |  |  2  |
-|Front End - Código fuente del módulo de autenticación                                              |  |  2  |
-|Front End - Esquema de la base de datos*                                                           |  |  2  |
-|Front End - Contenido de la base de datos                                                          |  |  2  |
-|Back End - Código fuente del módulo de Drupal*                                                     |  |  2  |
-|                                                                                  |Total por categoría| 10  |
-|**Back End**                                                                                       |  |     |
-|                                                                                                   |  |     |
-|Servidor Apache httpd e Instalación de Drupal 7*                                                   |  |  5  |
-|Configuración de Drupal 7 y elaboración contenido*                                                 |  |  5  |
-|Módulo de Drupal 7*                                                                                |  | 10  |
-|                                                                                  |Total por categoría| 20  |
-|                                                                                                   |  |     |
-|**Front End**                                                                                      |  |     |
-|                                                                                                   |  |     |
-|Servidor de aplicaciones*                                                                          |  |  5  |
-|Aplicación web                                                                                     |  | 20  |
-|Módulo de autenticación                                                                            |  | 10  |
-|Módulo de conexión con WebService*                                                                 |  | 10  |
-|Servidor de Bases de datos*                                                                        |  |  5  |
-|Modelado de la base de datos*                                                                      |  | 10  |
-|                                                                                  |Total por categoría| 60  |
-|                                                                                                   |  |     |
-|**Documentación**                                                                                  |  | 10  |
-|                                                                                                   |  |     |
-|TOTAL                                                                                              |  |100  |
-|                                                                                                   |  |     |
-|**EXTRA**                                                                                          |  |     |
-|Cifrado de conexión a la base de datos del Front End                                               |  |  2  |
-|Uso de bases de datos de geolocalización para filtrar a los visitantes por país                    |  |  2  |
-|Módulo de autenticación y cambios en la base de datos y aplicación para la compatibilidad con OAUTH|  |  6  |
-|                                                                                |Total de puntos extra| 20  |
+|Elemento                                                                                           |Valor|
+|---------------------------------------------------------------------------------------------------|-----|
+|**Sistema de control de versiones**                                                                |     |
+|Front End - Código fuente de la aplicación principal                                               |  2  |
+|Front End - Código fuente del módulo de autenticación                                              |  2  |
+|Front End - Esquema de la base de datos*                                                           |  2  |
+|Front End - Contenido de la base de datos                                                          |  2  |
+|Back End - Código fuente del módulo de Drupal*                                                     |  2  |
+|*Total por categoría*                                                                              | 10  |
+|**Back End**                                                                                       |     |
+|                                                                                                   |     |
+|Servidor Apache httpd e Instalación de Drupal 7*                                                   |  5  |
+|Configuración de Drupal 7 y elaboración contenido*                                                 |  5  |
+|Módulo de Drupal 7*                                                                                | 10  |
+|*Total por categoría*                                                                              | 20  |
+|                                                                                                   |     |
+|**Front End**                                                                                      |     |
+|                                                                                                   |     |
+|Servidor de aplicaciones*                                                                          |  5  |
+|Aplicación web                                                                                     | 20  |
+|Módulo de autenticación                                                                            | 10  |
+|Módulo de conexión con WebService*                                                                 | 10  |
+|Servidor de Bases de datos*                                                                        |  5  |
+|Modelado de la base de datos*                                                                      | 10  |
+|*Total por categoría*                                                                              | 60  |
+|                                                                                                   |     |
+|**Documentación**                                                                                  | 10  |
+|                                                                                                   |     |
+|TOTAL                                                                                              |100  |
+|                                                                                                   |     |
+|**EXTRA**                                                                                          |     |
+|Cifrado de conexión a la base de datos del Front End                                               |  2  |
+|Uso de bases de datos de geolocalización para filtrar a los visitantes por país                    |  2  |
+|Módulo de autenticación y cambios en la base de datos y aplicación para la compatibilidad con OAUTH|  6  |
+|*Total de puntos extra*                                                                            | 20  |
 
 Para la evaluación intermedia se revisaran los siguientes elementos, representa el 30% del puntaje asignado a estos puntos de evaluación:
 
@@ -167,38 +167,73 @@ Para la evaluación intermedia se revisaran los siguientes elementos, representa
 ##5. REFERENCIAS:
 
 https://github.com/
+
 https://gitorious.org/
+
 http://packages.debian.org/
+
 http://tomcat.apache.org/
+
 http://httpd.apache.org/
+
 http://modsecurity.org/
+
 https://sqlite.org/
+
 http://www.postgresql.org/
+
 http://www.mysql.com/
+
 http://www.unixodbc.org/
+
 http://www.php.net/
+
 http://www.zend.com/en/
+
 http://flask.pocoo.org/
+
 http://zope2.zope.org/
+
 http://spring.io/
+
 http://struts.apache.org/
+
 http://ellislab.com/codeigniter
+
 https://www.djangoproject.com/
+
 http://www.web2py.com/
+
 http://symfony.com/
+
 http://cakephp.org/
+
 http://www.smarty.net/
+
 https://netbeans.org/
+
 https://www.eclipse.org/
+
 http://www.iis.net/
+
 https://help.github.com/
+
 http://pages.github.com/
+
 https://help.github.com/articles/setting-your-email-in-git
+
 https://help.github.com/articles/markdown-basics
+
 https://help.github.com/articles/github-flavored-markdown
+
 https://wiki.python.org/moin/WebFrameworks
+
 http://dev.maxmind.com/geoip/legacy/mod_geoip2/
+
 http://docs.oracle.com/javase/7/docs/webnotes/install/
+
 http://www.microsoft.com/es-xl/sqlserver/default.aspx
+
 http://open.bekk.no/serving-python-webapps-with-apache
+
 https://github.com/tonejo/PBSC8-mod2
