@@ -22,5 +22,5 @@
 ### Especificaciones del Proyecto ###
 
 + [Especificaciones del Proyecto - Markdown](./Proyecto.md "Especificaciones del Proyecto - Markdown")
-+ [Especificaciones del Proyecto - PDF](./Proyecto.PDF "Especificaciones del Proyecto - PDF")
++ [Especificaciones del Proyecto - PDF](./Proyecto.pdf "Especificaciones del Proyecto - PDF")
 
