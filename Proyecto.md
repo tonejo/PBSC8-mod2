@@ -1,13 +1,13 @@
-####DEFINICIÓN DE PROYECTOS PARA BECARIOS
+####	DEFINICIÓN DE PROYECTOS PARA BECARIOS
 
-#####ASIGNACIÓN
+#####	ASIGNACIÓN
 
 |        |        |
 |--------|--------|
 |**ÁREA AL QUE PERTENECE EL PROYECTO:**|Seguridad en Sistemas|
 |**NOMBRE DEL RESPONSABLE DE COORDINAR EL PROYECTO:**|Andrés Leonardo Hernández Bermúdez|
 
-#####DATOS DEL PROYECTO DONDE PARTICIPARÁ EL BECARIO
+#####	DATOS DEL PROYECTO DONDE PARTICIPARÁ EL BECARIO
 
 |        |        |
 |--------|--------|
@@ -16,9 +16,9 @@
 |**DESCRIPCIÓN DEL PROYECTO:**|Implementación de una arquitectura de contenido distribuida que comunique mediante web services la capa de presentación Front End con la capa de lógica de negocio y contenido Back End para presentar diversos contenidos web de manera segura.|
 |**TIEMPO ESTIMADO PARA EL DESARROLLO DEL PROYECTO:**|32 hrs. (8 días)|
 
-##1. ACTIVIDADES A DESARROLLAR:
+##	1. ACTIVIDADES A DESARROLLAR:
 
-###FRONT END
+###	FRONT END
 
 Desarrollo e implementación de una arquitectura de contenidos distribuida que comunique mediante Web Services la capa de presentación Front End con la capa de lógica de negocio y contenido Back End para presentar diversos contenidos web.
 
@@ -30,13 +30,13 @@ La base de datos del servidor Front End podrá ser implementada en SQLite, MySQL
 
 Adicionalmente el Front End debe contar con un módulo de autenticación programado en C o C++ que opere como CGI o FastCGI, el cual permita validar las credenciales de forma cifrada en la base de datos.
 
-###BACK END
+###	BACK END
 
 El Back End será un sitio Drupal 7 donde se tendrá que programar un módulo que implemente algún Web Service para transmitir el contenido almacenado en el sitio al servidor Front End, se puede hacer uso de REST, SOAP, JSON o algún otro mecanismo bien conocido para implementar el servicio web.
 
 La base de datos del servidor Back End se implementará en el manejador PostgreSQL.
 
-###CONSIDERACIONES
+###	CONSIDERACIONES
 
 Se recomienda el uso de Frameworks para el desarrollo de la aplicación web Front End. Cada equipo debe elegir un framework diferente o trabajar con código hecho a la medida. Las características, requerimientos y mecanismos de trabajo varían de acuerdo a cada uno. 
 
@@ -57,7 +57,7 @@ Es requerido el cifrado de la conexión entre el servidor Front End y los client
 
 La documentación del proyecto será entregada vía correo electrónico en archivo fuente de procesador de textos y en formato PDF. Un método alternativo es integrar la documentación en el repositorio de git que se utilizará mediante un wiki o git pages.
 
-###EXTRAS
+###	EXTRAS
 
 Cifrado de la conexión a base de datos en el Front End.
 
@@ -65,7 +65,51 @@ Uso de bases de datos de geolocalización en el Front End para filtrar a los vis
 
 El módulo de autenticación se puede reemplazar por una implementación de OAUTH tanto en el módulo en C como en la base de datos del Front End.
 
-##2. HERRAMIENTAS Y SOFTWARE QUE DEBE UTILIZAR:
+###     Vistas
+
+#####   Cuadricula
+
+Debe mostrar 9 entradas de contenido que serán definidas por el administrador, el orden mostrado en cada celda puede ser editado y almacenado en la base de datos. El contenido se obtiene a traves del *WebService* proporcionado por el backend.
+
+Esta es la vista principal de la aplicación en modo anónimo, mostrar un botón o liga para iniciar sesión y una vez iniciada la sesión mostrar un botón o liga para editar el orden de las casillas.
+
+Los usuarios con rol de administrador pueden editar el orden en el que se muestra la página principal, dicho orden debe ser guardado en la base de datos.
+
++ [Ejemplo](http://jsfiddle.net/WgF7Z/1/ "HTML5/CSS3")
+
+#####   Login
+
+Formulario de inicio de sesión utilizando usuario y contraseña, el campo **action** debe apuntar al script CGI que funge como módulo de autenticación.
+
++ [Ejemplo](http://www.cssflow.com/snippets/dark-login-form/demo "HTML5/CSS3")
+
+#####   Listado de contenido ordenado por fecha
+
+Debe listar el contenido ordenado por fecha de la más reciente a la más antigua. El contenido se obtiene a traves del *WebService* proporcionado por el backend.
+
++ [Ejemplo](http://www.seguridad.unam.mx/noticia/ "www.seguridad.unam.mx")
+
+#####   Vista del contenido
+
+El contenido se obtiene a traves del *WebService* proporcionado por el backend.
+
+Se debe de agregar un campo para enviar comentarios, mismo que a través del webservice elegido publicará el comentario de manera anónima en el backend.
+
++ [Ejemplo](http://www.seguridad.unam.mx/noticias/?noti=4264 "www.seguridad.unam.mx")
++ [Ejemplo](http://www.seguridad.unam.mx/noticias/?noti=4324 "www.seguridad.unam.mx")
++ [Ejemplo](http://www.seguridad.unam.mx/noticia/?noti=1543 "www.seguridad.unam.mx")
+
+#####   Administración de usuarios
+
+Debe listar a todos los usuarios y visualizar si son usuarios normales o administradores. Además debe de darse la opción para *agregar*, *editar*, o *borrar* usuarios.
+
+Un usuario puede ser o no administrador y debe de poderse cambiar este atributo al editarlo.
+
+Los usuarios se guardan en la base de datos del **Front End** misma que es accedida por el CGI que funge como módulo de autenticación.
+
++ [Ejemplo](https://www.ldap-account-manager.org/lam/templates/lists/list.php?type=user "user:admin, pw: lam")
+
+##	2. HERRAMIENTAS Y SOFTWARE QUE DEBE UTILIZAR:
 
 Todas las máquinas virtuales
 
@@ -115,7 +159,7 @@ Frameworks
 + CodeIgniter
 + CakePHP
 
-##3. EVALUACIÓN:
+##	3. EVALUACIÓN:
 
 |Elemento                                                                                           |Valor|
 |---------------------------------------------------------------------------------------------------|-----|
@@ -160,11 +204,11 @@ Para la evaluación intermedia se revisaran los siguientes elementos, representa
 + Implementación del Back End incluyendo el módulo de Drupal para WebServices.
 + El código fuente del módulo de Drupal en sistema de control de versiones.
 
-##4. DIAGRAMA:
+##	4. DIAGRAMA:
 
 ![Diagrama de arquitectura](Diagrama.png "Diagrama de arquitectura")
 
-##5. REFERENCIAS:
+##	5. REFERENCIAS:
 
 https://github.com/
 
