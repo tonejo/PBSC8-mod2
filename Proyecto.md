@@ -2,19 +2,20 @@
 
 #####	ASIGNACIÓN
 
-|        |        |
-|--------|--------|
-|**ÁREA AL QUE PERTENECE EL PROYECTO:**|Seguridad en Sistemas|
+|                                                    |                                  |
+|----------------------------------------------------|----------------------------------|
+|**ÁREA AL QUE PERTENECE EL PROYECTO:**              |Seguridad en Sistemas             |
 |**NOMBRE DEL RESPONSABLE DE COORDINAR EL PROYECTO:**|Andrés Leonardo Hernández Bermúdez|
 
 #####	DATOS DEL PROYECTO DONDE PARTICIPARÁ EL BECARIO
 
-|        |        |
-|--------|--------|
-|**NOMBRE DEL PROYECTO:**||
-|**OBJETIVO DEL PROYECTO:**|Implementación de aplicaciones web de forma segura.|
-|**DESCRIPCIÓN DEL PROYECTO:**|Implementación de una arquitectura de contenido distribuida que comunique mediante web services la capa de presentación Front End con la capa de lógica de negocio y contenido Back End para presentar diversos contenidos web de manera segura.|
-|**TIEMPO ESTIMADO PARA EL DESARROLLO DEL PROYECTO:**|32 hrs. (8 días)|
+|                                   |                          |
+|-----------------------------------|--------------------------|
+|**OBJETIVO DEL PROYECTO:**         |Implementación de aplicaciones web de forma segura.|
+|**DESCRIPCIÓN DEL PROYECTO:**      |Implementación de una arquitectura de contenido distribuida que comunique mediante web services la capa de presentación Front End con la capa de lógica de negocio y contenido Back End para presentar diversos contenidos web de manera segura.|
+|**FECHA DE ASIGNACIÓN DE PROYECTO**|Jueves 13 de marzo de 2014|
+|**FECHA DE REVISIÓN INTERMEDIA**   |Jueves 20 de marzo de 2014|
+|**FECHA DE ENTREGA DE PROYECTO**   |Jueves 27 de marzo de 2014|
 
 ##	1. ACTIVIDADES A DESARROLLAR:
 
@@ -281,3 +282,4 @@ http://www.microsoft.com/es-xl/sqlserver/default.aspx
 http://open.bekk.no/serving-python-webapps-with-apache
 
 https://github.com/tonejo/PBSC8-mod2
+
