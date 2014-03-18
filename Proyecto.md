@@ -1,21 +1,17 @@
-####	DEFINICIÓN DE PROYECTOS PARA BECARIOS
+#	DEFINICIÓN DE PROYECTOS PARA BECARIOS
 
-#####	ASIGNACIÓN
-
-|                                                    |                                  |
-|----------------------------------------------------|----------------------------------|
-|**ÁREA AL QUE PERTENECE EL PROYECTO:**              |Seguridad en Sistemas             |
-|**NOMBRE DEL RESPONSABLE DE COORDINAR EL PROYECTO:**|Andrés Leonardo Hernández Bermúdez|
-
-#####	DATOS DEL PROYECTO DONDE PARTICIPARÁ EL BECARIO
-
-|                                   |                          |
-|-----------------------------------|--------------------------|
-|**OBJETIVO DEL PROYECTO:**         |Implementación de aplicaciones web de forma segura.|
-|**DESCRIPCIÓN DEL PROYECTO:**      |Implementación de una arquitectura de contenido distribuida que comunique mediante web services la capa de presentación Front End con la capa de lógica de negocio y contenido Back End para presentar diversos contenidos web de manera segura.|
-|**FECHA DE ASIGNACIÓN DE PROYECTO**|Jueves 13 de marzo de 2014|
-|**FECHA DE REVISIÓN INTERMEDIA**   |Jueves 20 de marzo de 2014|
-|**FECHA DE ENTREGA DE PROYECTO**   |Jueves 27 de marzo de 2014|
+|**ASIGNACIÓN**                                      |                                                   |
+|----------------------------------------------------|---------------------------------------------------|
+|**ÁREA AL QUE PERTENECE EL PROYECTO:**              |Seguridad en Sistemas                              |
+|**NOMBRE DEL RESPONSABLE DE COORDINAR EL PROYECTO:**|Andrés Leonardo Hernández Bermúdez                 |
+|                                                    |                                                   |
+|**DATOS DEL PROYECTO**                              |                                                   |
+|                                                    |                                                   |
+|**OBJETIVO DEL PROYECTO:**                          |Implementación de aplicaciones web de forma segura.|
+|**DESCRIPCIÓN DEL PROYECTO:**                       |Implementación de una arquitectura de contenido distribuida que comunique mediante web services la capa de presentación Front End con la capa de lógica de negocio y contenido Back End para presentar diversos contenidos web de manera segura.|
+|**FECHA DE ASIGNACIÓN DE PROYECTO*                 *|Jueves 13 de marzo de 2014                         |
+|**FECHA DE REVISIÓN INTERMEDIA**                    |Jueves 20 de marzo de 2014                         |
+|**FECHA DE ENTREGA DE PROYECTO**                    |Jueves 27 de marzo de 2014                         |
 
 ##	1. ACTIVIDADES A DESARROLLAR:
 
@@ -76,6 +72,7 @@ Esta es la vista principal de la aplicación en modo anónimo, mostrar un botón
 
 Los usuarios con rol de administrador pueden editar el orden en el que se muestra la página principal, dicho orden debe ser guardado en la base de datos.
 
++ [Ejemplo](http://www.seguridad.unam.mx/ "Pagina principal de la SSI/UNAM-CERT")
 + [Ejemplo](http://jsfiddle.net/WgF7Z/1/ "HTML5/CSS3")
 
 #####   Login
