@@ -9,7 +9,7 @@
 |                                                    |                                                   |
 |**OBJETIVO DEL PROYECTO:**                          |Implementación de aplicaciones web de forma segura.|
 |**DESCRIPCIÓN DEL PROYECTO:**                       |Implementación de una arquitectura de contenido distribuida que comunique mediante web services la capa de presentación Front End con la capa de lógica de negocio y contenido Back End para presentar diversos contenidos web de manera segura.|
-|**FECHA DE ASIGNACIÓN DE PROYECTO*                 *|Jueves 13 de marzo de 2014                         |
+|**FECHA DE ASIGNACIÓN DE PROYECTO**                 |Jueves 13 de marzo de 2014                         |
 |**FECHA DE REVISIÓN INTERMEDIA**                    |Jueves 20 de marzo de 2014                         |
 |**FECHA DE ENTREGA DE PROYECTO**                    |Jueves 27 de marzo de 2014                         |
 
