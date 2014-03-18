@@ -13,18 +13,37 @@
 |                                                            |[Denise Betancourt Sandoval](https://github.com/denisbeta23)    |                                                                 |[Diana Romero Velázquez](https://github.com/dromero91)     |
 |                                                            |                                                                |                                                                 |                                                           |
 |[**α - RSS**](https://github.com/darkroo/proy_mod2/commits/master.atom)|[**β - RSS**](https://github.com/xoco-carlos/WebSecurity/commits/master.atom)|[**γ - RSS**](https://github.com/destroyer-1990/proyectotonejo/commits/master.atom)|[**δ - RSS**](https://github.com/liliagm19/PBSC8-mod2/commits/master.atom)|
-|[**α - Pulse**](https://github.com/darkroo/proy_mod2/pulse)            |[**β - Pulse**](https://github.com/xoco-carlos/WebSecurity/pulse)            |[**γ - Pulse**](https://github.com/destroyer-1990/proyectotonejo/pulse)            |[**δ - Pulse**](https://github.com/liliagm19/PBSC8-mod2/pulse)|
+|[**α - Wiki**](https://github.com/darkroo/proy_mod2/wiki)              |[**β - Wiki**](https://github.com/xoco-carlos/WebSecurity/wiki)              |[**γ - Wiki**](https://github.com/destroyer-1990/proyectotonejo/wiki)              |[**δ - Wiki**](https://github.com/liliagm19/PBSC8-mod2/wiki)|
+|[**α - Pulse**](https://github.com/darkroo/proy_mod2/pulse/monthly)    |[**β - Pulse**](https://github.com/xoco-carlos/WebSecurity/pulse/monthly)    |[**γ - Pulse**](https://github.com/destroyer-1990/proyectotonejo/pulse/monthly)    |[**δ - Pulse**](https://github.com/liliagm19/PBSC8-mod2/pulse/monthly)|
 |[**α - Network**](https://github.com/darkroo/proy_mod2/network)        |[**β - Network**](https://github.com/xoco-carlos/WebSecurity/network)        |[**γ - Network**](https://github.com/destroyer-1990/proyectotonejo/network)        |[**δ - Network**](https://github.com/liliagm19/PBSC8-mod2/network)|
-
-### Tasklist ###
-
-- [x] Crear repositorio de git
-- [ ] Completar try-git de @codeschool
-- [ ] Completar el proyecto
-- [ ] *No morir* xD
+|                                                            |                                                                |                                                                 |                                                           |
+|[α - **Graphs** - *Contributors*](https://github.com/darkroo/proy_mod2/graphs/contributors)      |[β - **Graphs** - *Contributors*](https://github.com/xoco-carlos/WebSecurity/graphs/contributors)      |[γ - **Graphs** - *Contributors*](https://github.com/destroyer-1990/proyectotonejo/graphs/contributors)      |[δ - **Graphs** - *Contributors*](https://github.com/liliagm19/PBSC8-mod2/graphs/contributors)      |
+|[α - **Graphs** - *Commit Activity*](https://github.com/darkroo/proy_mod2/graphs/commit-activity)|[β - **Graphs** - *Commit Activity*](https://github.com/xoco-carlos/WebSecurity/graphs/commit-activity)|[γ - **Graphs** - *Commit Activity*](https://github.com/destroyer-1990/proyectotonejo/graphs/commit-activity)|[δ - **Graphs** - *Commit Activity*](https://github.com/liliagm19/PBSC8-mod2/graphs/commit-activity)|
+|[α - **Graphs** - *Code Frequency*](https://github.com/darkroo/proy_mod2/graphs/code-frequency)  |[β - **Graphs** - *Code Frequency*](https://github.com/xoco-carlos/WebSecurity/graphs/code-frequency)  |[γ - **Graphs** - *Code Frequency*](https://github.com/destroyer-1990/proyectotonejo/graphs/code-frequency)  |[δ - **Graphs** - *Code Frequency*](https://github.com/liliagm19/PBSC8-mod2/graphs/code-frequency)  |
+|[α - **Graphs** - *Punch Card*](https://github.com/darkroo/proy_mod2/graphs/punch-card)          |[β - **Graphs** - *Punch Card*](https://github.com/xoco-carlos/WebSecurity/graphs/punch-card)          |[γ - **Graphs** - *Punch Card*](https://github.com/destroyer-1990/proyectotonejo/graphs/punch-card)          |[δ - **Graphs** - *Punch Card*](https://github.com/liliagm19/PBSC8-mod2/graphs/punch-card)          |
 
 ### Especificaciones del Proyecto ###
 
 + [Especificaciones del Proyecto - Markdown](./Proyecto.md "Especificaciones del Proyecto - Markdown")
 + [Especificaciones del Proyecto - PDF](./Proyecto.pdf "Especificaciones del Proyecto - PDF")
 
+###	Links ###
+
+* [*✓*](https://github.com/tonejo/PBSC8-mod2)
+* [✓ - **RSS**](https://github.com/tonejo/PBSC8-mod2/commits/master.atom)
+* [✓ - **Wiki**](https://github.com/tonejo/PBSC8-mod2/wiki)
+* [✓ - **Pulse**](https://github.com/tonejo/PBSC8-mod2/pulse/monthly)
+* [✓ - **Network**](https://github.com/tonejo/PBSC8-mod2/network)
+* [✓ - **Graphs** - *Contributors*](https://github.com/tonejo/PBSC8-mod2/graphs/contributors)
+* [✓ - **Graphs** - *Commit Activity*](https://github.com/tonejo/PBSC8-mod2/graphs/commit-activity)
+* [✓ - **Graphs** - *Code Frequency*](https://github.com/tonejo/PBSC8-mod2/graphs/code-frequency)
+* [✓ - **Graphs** - *Punch Card*](https://github.com/tonejo/PBSC8-mod2/graphs/punch-card)
+
+### Tasklist ###
+
+- [x] Crear repositorio de git
+- [ ] Completar try-git de @codeschool
+- [ ] Hacer el proyecto
+- [ ] Completar el proyecto
+- [ ] Entregar el proyecto
+- [ ] *No morir* **xD**
