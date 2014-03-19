@@ -1,6 +1,7 @@
 #	PBSC	#
 
 > Andrés Hernández
+
 >  = ^ . ^ =
 
 ###	Especificaciones del Proyecto	###
@@ -23,6 +24,9 @@
 |[Carlos Ruiz Aguilar](https://github.com/craguilar)         |[José Carmen Hernández Padrón](https://github.com/jhernandezp)  |[Marcelo Daniel Barrera Plata](https://github.com/chelo556)      |[Víctor Hugo Barajas Nieto](https://github.com/vbarajasn)  |
 |                                                            |[Denise Betancourt Sandoval](https://github.com/denisbeta23)    |                                                                 |[Diana Romero Velázquez](https://github.com/dromero91)     |
 |                                                            |                                                                |                                                                 |                                                           |
+|Java - *Spring/JSF*                                         |PHP - *Zend*                                                    |PHP - *Simphony*                                                 |PHP - *CakePHP*                                            |
+|Oracle Express 11g                                          |MySQL                                                           |SQLite                                                           |PostgreSQL                                                 |
+|                                                            |                                                                |                                                                 |                                                           |
 |[**α - RSS**](https://github.com/darkroo/proy_mod2/commits/master.atom)|[**β - RSS**](https://github.com/xoco-carlos/WebSecurity/commits/master.atom)|[**γ - RSS**](https://github.com/destroyer-1990/proyectotonejo/commits/master.atom)|[**δ - RSS**](https://github.com/liliagm19/PBSC8-mod2/commits/master.atom)|
 |[**α - Wiki**](https://github.com/darkroo/proy_mod2/wiki)              |[**β - Wiki**](https://github.com/xoco-carlos/WebSecurity/wiki)              |[**γ - Wiki**](https://github.com/destroyer-1990/proyectotonejo/wiki)              |[**δ - Wiki**](https://github.com/liliagm19/PBSC8-mod2/wiki)|
 |[**α - Pulse**](https://github.com/darkroo/proy_mod2/pulse/monthly)    |[**β - Pulse**](https://github.com/xoco-carlos/WebSecurity/pulse/monthly)    |[**γ - Pulse**](https://github.com/destroyer-1990/proyectotonejo/pulse/monthly)    |[**δ - Pulse**](https://github.com/liliagm19/PBSC8-mod2/pulse/monthly)|
@@ -35,7 +39,7 @@
 
 ###	Links	###
 
-* [*✓*](https://github.com/tonejo/PBSC8-mod2)
+* [**✓**](https://github.com/tonejo/PBSC8-mod2)
 * [✓ - **Page**](http://tonejo.github.io/PBSC8-mod2/)
 * [✓ - **RSS**](https://github.com/tonejo/PBSC8-mod2/commits/master.atom)
 * [✓ - **Wiki**](https://github.com/tonejo/PBSC8-mod2/wiki)
@@ -45,13 +49,4 @@
 * [✓ - **Graphs** - *Commit Activity*](https://github.com/tonejo/PBSC8-mod2/graphs/commit-activity)
 * [✓ - **Graphs** - *Code Frequency*](https://github.com/tonejo/PBSC8-mod2/graphs/code-frequency)
 * [✓ - **Graphs** - *Punch Card*](https://github.com/tonejo/PBSC8-mod2/graphs/punch-card)
-
-###	Tasklist	###
-
-- [x] Crear repositorio de git
-- [ ] Completar try-git de @codeschool
-- [ ] Hacer el proyecto
-- [ ] Completar el proyecto
-- [ ] Entregar el proyecto
-- [ ] *No morir* **xD**
 
