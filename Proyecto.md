@@ -278,5 +278,9 @@ http://www.microsoft.com/es-xl/sqlserver/default.aspx
 
 http://open.bekk.no/serving-python-webapps-with-apache
 
+http://www.cs.tut.fi/~jkorpela/forms/cgic.html
+
+http://www.boutell.com/cgic/
+
 https://github.com/tonejo/PBSC8-mod2
 
