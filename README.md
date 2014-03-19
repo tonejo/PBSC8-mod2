@@ -34,7 +34,6 @@
 |                                                            |                                                                |                                                                 |                                                           |
 |[α - **Graphs** - *Contributors*](https://github.com/darkroo/proy_mod2/graphs/contributors)      |[β - **Graphs** - *Contributors*](https://github.com/xoco-carlos/WebSecurity/graphs/contributors)      |[γ - **Graphs** - *Contributors*](https://github.com/destroyer-1990/proyectotonejo/graphs/contributors)      |[δ - **Graphs** - *Contributors*](https://github.com/liliagm19/PBSC8-mod2/graphs/contributors)      |
 |[α - **Graphs** - *Commit Activity*](https://github.com/darkroo/proy_mod2/graphs/commit-activity)|[β - **Graphs** - *Commit Activity*](https://github.com/xoco-carlos/WebSecurity/graphs/commit-activity)|[γ - **Graphs** - *Commit Activity*](https://github.com/destroyer-1990/proyectotonejo/graphs/commit-activity)|[δ - **Graphs** - *Commit Activity*](https://github.com/liliagm19/PBSC8-mod2/graphs/commit-activity)|
-|[α - **Graphs** - *Code Frequency*](https://github.com/darkroo/proy_mod2/graphs/code-frequency)  |[β - **Graphs** - *Code Frequency*](https://github.com/xoco-carlos/WebSecurity/graphs/code-frequency)  |[γ - **Graphs** - *Code Frequency*](https://github.com/destroyer-1990/proyectotonejo/graphs/code-frequency)  |[δ - **Graphs** - *Code Frequency*](https://github.com/liliagm19/PBSC8-mod2/graphs/code-frequency)  |
 |[α - **Graphs** - *Punch Card*](https://github.com/darkroo/proy_mod2/graphs/punch-card)          |[β - **Graphs** - *Punch Card*](https://github.com/xoco-carlos/WebSecurity/graphs/punch-card)          |[γ - **Graphs** - *Punch Card*](https://github.com/destroyer-1990/proyectotonejo/graphs/punch-card)          |[δ - **Graphs** - *Punch Card*](https://github.com/liliagm19/PBSC8-mod2/graphs/punch-card)          |
 
 ###	Links	###
@@ -47,6 +46,5 @@
 * [✓ - **Network**](https://github.com/tonejo/PBSC8-mod2/network)
 * [✓ - **Graphs** - *Contributors*](https://github.com/tonejo/PBSC8-mod2/graphs/contributors)
 * [✓ - **Graphs** - *Commit Activity*](https://github.com/tonejo/PBSC8-mod2/graphs/commit-activity)
-* [✓ - **Graphs** - *Code Frequency*](https://github.com/tonejo/PBSC8-mod2/graphs/code-frequency)
 * [✓ - **Graphs** - *Punch Card*](https://github.com/tonejo/PBSC8-mod2/graphs/punch-card)
 
