@@ -18,6 +18,7 @@
 
 |[**α - Alpha**](https://github.com/darkroo/proy_mod2)       |[**β - Beta**](https://github.com/xoco-carlos/WebSecurity)      |[**γ - Gamma**](https://github.com/destroyer-1990/proyectotonejo)|[**δ - Delta**](https://github.com/liliagm19/PBSC8-mod2)   |
 |------------------------------------------------------------|----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------|
+|[**α - Alpha**](https://github.com/darkroo/proy_mod2.git)   |[**β - Beta**](https://github.com/xoco-carlos/WebSecurity.git)  |[**γ - Gamma**](https://github.com/destroyer-1990/proyectotonejo.git)|[**δ - Delta**](https://github.com/liliagm19/PBSC8-mod2.git)   |
 |[Rodrigo Augusto Ortíz Ramón](https://github.com/darkroo)   |[Xocoyotzin Carlos Zamora Parra](https://github.com/xoco-carlos)|[Octavio Domínguez Salgado](https://github.com/destroyer-1990)   |[Lilia Elena González Medina](https://github.com/liliagm19)|
 |[Omar Alí Domínguez Cabañas](https://github.com/oadominguez)|[Sergio Anduin Tovar Balderas](https://github.com/stovarbec)    |[Óscar Iván Flores Ávila](https://github.com/quetzalcoatl41)     |[Aarón Martín Castillo Medina](https://github.com/YoNoFui) |
 |[Ismael Hernández Millares](https://github.com/ishemi)      |[Ricardo Andrés Carmona Domínguez](https://github.com/rcarmona) |[Diego Valverde Rodríguez](https://github.com/dvalv3rd3)         |[Óscar Álvarez Fernández](https://github.com/oalvarezf)    |
@@ -38,7 +39,7 @@
 
 ###	Links	###
 
-* [**✓**](https://github.com/tonejo/PBSC8-mod2)
+* [**✓**](https://github.com/tonejo/PBSC8-mod2.git)
 * [✓ - **Page**](http://tonejo.github.io/PBSC8-mod2/)
 * [✓ - **RSS**](https://github.com/tonejo/PBSC8-mod2/commits/master.atom)
 * [✓ - **Wiki**](https://github.com/tonejo/PBSC8-mod2/wiki)
