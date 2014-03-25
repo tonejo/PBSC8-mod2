@@ -1,4 +1,4 @@
-##	Horarios de revisión	##
+﻿##	Horarios de revisión	##
 
 ###	Revisión intermedia	###
 
@@ -18,7 +18,7 @@
 |**Horario**                                                                                                                           |**Equipo** |
 |--------------------------------------------------------------------------------------------------------------------------------------|-----------|
 |[12:00](http://www.timeanddate.com/countdown/generic?iso=20140325T120000&p0=155&msg=[PBSC]+Entrega+proyecto+m%C3%B3dulo+2&csz=1&swk=1)|           |
-|[13:00](http://www.timeanddate.com/countdown/generic?iso=20140325T130000&p0=155&msg=[PBSC]+Entrega+proyecto+m%C3%B3dulo+2&csz=1&swk=1)|           |
+|[13:00](http://www.timeanddate.com/countdown/generic?iso=20140325T130000&p0=155&msg=[PBSC]+Entrega+proyecto+m%C3%B3dulo+2&csz=1&swk=1)|    γ - Gamma |       |
 |[14:00](http://www.timeanddate.com/countdown/generic?iso=20140325T140000&p0=155&msg=[PBSC]+Entrega+proyecto+m%C3%B3dulo+2&csz=1&swk=1)|     α - Alpha       |
 |[17:00](http://www.timeanddate.com/countdown/generic?iso=20140325T170000&p0=155&msg=[PBSC]+Entrega+proyecto+m%C3%B3dulo+2&csz=1&swk=1)|           |
 
