@@ -12,7 +12,7 @@
 ###	Horarios de revisión	###
 
 + [Horarios de revisión intermedia - Jueves 20 de marzo de 2014](https://github.com/tonejo/PBSC8-mod2/blob/master/Revision.md#revisi%C3%B3n-intermedia "Jueves 20 de marzo de 2014")
-+ [Horarios de revisión final - Jueves 27 de marzo de 2014](https://github.com/tonejo/PBSC8-mod2/blob/master/Revision.md#revisi%C3%B3n-final "Jueves 27 de marzo de 2014")
++ [Horarios de revisión final - Martes 25 de marzo de 2014](https://github.com/tonejo/PBSC8-mod2/blob/master/Revision.md#revisi%C3%B3n-final "Martes 25 de marzo de 2014")
 
 ##	Equipos	##
 
