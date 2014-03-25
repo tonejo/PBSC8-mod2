@@ -107,6 +107,19 @@ Los usuarios se guardan en la base de datos del **Front End** misma que es acced
 
 + [Ejemplo](https://www.ldap-account-manager.org/lam/templates/lists/list.php?type=user "user:admin, pw: lam")
 
+#####   CGI y Cookie
+
+Funcionamiento esperado:
+
++ El usuario visita la página de login y da clic en el enlace o botón que lo manda al inicio de sesión.
++ El usuario introduce sus credenciales en la página de inicio de sesión y las envía al CGI para validación.
++ El CGI recibe por POST y procesa las crendenciales realizando la validación correspondiente con la base de datos.
++ El CGI genera un *token* aleatorio y lo escribe en un archivo.
++ Se regresa una cabecera HTTP "Location: " para redirigir al usuario a una página donde se genera la cookie, la redirección debe contener el *token*.
++ La página que genera la cookie recibe la petición que contiene el *token* y compara el valor con el que almacenó el CGI en el archivo, si los valores coinciden se genera una sesión y se regresará una *cookie* al usuario, en caso contrario se debe manejar un estado de error.
++ Una *alternativa* a los tres pasos anteriores es que **el CGI puede genere la sesión estableciendo la cookie y redireccione al usuario directamente a la página donde pueda interactuar con la aplicación**.
++ La cookie es presentada en todas las peticiones subsecuentes al sitio (esto se realiza de manera automática) y al cerrar la sesión se destruye internamente y es marcada como no válida.
+
 ##	2. HERRAMIENTAS Y SOFTWARE QUE DEBE UTILIZAR:
 
 Todas las máquinas virtuales
