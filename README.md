@@ -28,10 +28,18 @@
 |[Ismael Hernández Millares](https://github.com/ishemi)      |[Ricardo Andrés Carmona Domínguez](https://github.com/rcarmona) |[Diego Valverde Rodríguez](https://github.com/dvalv3rd3)         |[Óscar Álvarez Fernández](https://github.com/oalvarezf)    |
 |[Carlos Ruiz Aguilar](https://github.com/craguilar)         |[José Carmen Hernández Padrón](https://github.com/jhernandezp)  |[Marcelo Daniel Barrera Plata](https://github.com/chelo556)      |[Víctor Hugo Barajas Nieto](https://github.com/vbarajasn)  |
 |                                                            |[Denise Betancourt Sandoval](https://github.com/denisbeta23)    |                                                                 |[Diana Romero Velázquez](https://github.com/dromero91)     |
-|                                                            |                                                                |                                                                 |                                                           |
+
+###	Herramientas	###
+
+|[**α - Alpha**](https://github.com/darkroo/proy_mod2)       |[**β - Beta**](https://github.com/xoco-carlos/WebSecurity)      |[**γ - Gamma**](https://github.com/destroyer-1990/proyectotonejo)|[**δ - Delta**](https://github.com/liliagm19/PBSC8-mod2)   |
+|------------------------------------------------------------|----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------|
 |Java - *Spring/JSF*                                         |PHP                                                             |PHP                                                              |PHP - *CakePHP*                                            |
 |Oracle Express 10gR2                                        |MySQL                                                           |SQLite                                                           |PostgreSQL                                                 |
-|                                                            |                                                                |                                                                 |                                                           |
+
+###	Seguimiento	###
+
+|[**α - Alpha**](https://github.com/darkroo/proy_mod2)       |[**β - Beta**](https://github.com/xoco-carlos/WebSecurity)      |[**γ - Gamma**](https://github.com/destroyer-1990/proyectotonejo)|[**δ - Delta**](https://github.com/liliagm19/PBSC8-mod2)   |
+|------------------------------------------------------------|----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------|
 |[**α - RSS**](https://github.com/darkroo/proy_mod2/commits/master.atom)|[**β - RSS**](https://github.com/xoco-carlos/WebSecurity/commits/master.atom)|[**γ - RSS**](https://github.com/destroyer-1990/proyectotonejo/commits/master.atom)|[**δ - RSS**](https://github.com/liliagm19/PBSC8-mod2/commits/master.atom)|
 |[**α - Wiki**](https://github.com/darkroo/proy_mod2/wiki)              |[**β - Wiki**](https://github.com/xoco-carlos/WebSecurity/wiki)              |[**γ - Wiki**](https://github.com/destroyer-1990/proyectotonejo/wiki)              |[**δ - Wiki**](https://github.com/liliagm19/PBSC8-mod2/wiki)              |
 |[**α - Pulse**](https://github.com/darkroo/proy_mod2/pulse/monthly)    |[**β - Pulse**](https://github.com/xoco-carlos/WebSecurity/pulse/monthly)    |[**γ - Pulse**](https://github.com/destroyer-1990/proyectotonejo/pulse/monthly)    |[**δ - Pulse**](https://github.com/liliagm19/PBSC8-mod2/pulse/monthly)    |
